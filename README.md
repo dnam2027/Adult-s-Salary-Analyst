@@ -13,7 +13,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all the
 [Amelia](https://cran.r-project.org/web/packages/Amelia/index.html) <br />
 [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html) <br />
 [caTools](https://cran.r-project.org/web/packages/caTools/index.html) <br />
-[scikit-learn](https://scikit-learn.org/stable/install.html)<br />
 
 ## Contributing
 
