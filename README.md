@@ -9,10 +9,10 @@ In this project we will be working with the UCI adult dataset. We will be attemp
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all the libraries listed below. <br />
-[numpy](https://numpy.org/install/) <br />
-[matplotlib](https://matplotlib.org/stable/index.html) <br />
-[pandas](https://pandas.pydata.org/docs/) <br />
-[tensorflow](https://pypi.org/project/tensorflow/) <br />
+[dplyr](https://cran.r-project.org/web/packages/dplyr/index.html) <br />
+[Amelia](https://cran.r-project.org/web/packages/Amelia/index.html) <br />
+[ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html) <br />
+[caTools](https://cran.r-project.org/web/packages/caTools/index.html) <br />
 [scikit-learn](https://scikit-learn.org/stable/install.html)<br />
 
 ## Contributing
